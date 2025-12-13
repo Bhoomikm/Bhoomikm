@@ -31,15 +31,15 @@ Skilled in writing test cases, executing regression suites, and building automat
 - HTML reports
 - CI using GitHub Actions
 
-👉 Repository: [https://github.com/Bhoomikm/your-playwright-repo-name](https://github.com/Bhoomikm/Bhoomikm/)
+👉 Repository:[Gloabalsqa_Banking_Playwright](https://github.com/Bhoomikm/globalsqa-banking-playwright)
 
 ---
 
 ## 📄 Resume
-👉 [Add resume link here (Google Drive / PDF)](https://drive.google.com/file/d/1QmJ2n3jcrPys8ocQwjxqFp3o-z5APls_/view?usp=sharing)
+👉 [Bhoomika's Resume](https://drive.google.com/file/d/1QmJ2n3jcrPys8ocQwjxqFp3o-z5APls_/view?usp=sharing)
 
 ---
 
 ## 📫 Contact
-- LinkedIn: [add-your-link](https://www.linkedin.com/in/bhoomikakm/)
+- LinkedIn: [bhoomikakm](https://www.linkedin.com/in/bhoomikakm/)
 - Email: bhoomikm11@gmail.com 
