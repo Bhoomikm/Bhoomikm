@@ -36,7 +36,7 @@ Skilled in writing test cases, executing regression suites, and building automat
 ---
 
 ## 📄 Resume
-👉 [Bhoomika's Resume](https://drive.google.com/file/d/1QmJ2n3jcrPys8ocQwjxqFp3o-z5APls_/view?usp=sharing)
+👉 [Bhoomika's Resume](https://oneildata-my.sharepoint.com/:b:/r/personal/bhoomika_km_williamoneilindia_com/Documents/Resume.pdf?csf=1&web=1&e=cGWuUE)
 
 ---
 
